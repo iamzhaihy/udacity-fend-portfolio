@@ -1,0 +1,53 @@
+html {
+    font-family: "Roboto Condensed", Helvetica, sans-serif;
+}
+
+h1 {
+    font-weight: lighter;
+}
+
+img {
+    max-width: 100%;
+}
+
+nav a,
+button {
+    min-width: 48px;
+    min-height: 48px;
+}
+
+hr {
+    height: 3px;
+    size: 3px;
+}
+
+.logo {
+    padding: 10px;
+    width: 120px;
+    height: 120px%;
+}
+
+.title{
+    color: #2d3c49;
+}
+
+@media screen and (max-width: 990px) {
+    .header-col {
+        width: 50%;
+        float: left;
+    }
+}
+
+@media screen and (max-width: 490px) {
+  h1 {font-size: 16pt;}
+  h2 {font-size: 14pt;}
+  h3 {font-size: 12pt;}
+  p {font-size: 10pt}
+}
+
+@media screen and (min-width: 491px) and (max-width: 680px) {
+  h1 {font-size: 22pt;}
+  h2 {font-size: 16pt;}
+  h3 {font-size: 14pt;}
+  p {font-size: 12pt}
+}
