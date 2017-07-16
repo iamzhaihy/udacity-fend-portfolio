@@ -1,6 +1,6 @@
 # udacity-fend-portfolio
 ### What is this?
-This a project for Udacity Front-end Nanodegree. It is a practice of responsive web design.
+This a project for Udacity Front-end Nanodegree. It is a practice of responsive web design. You can try the live demo [Portfolio](https://iamzhaihy.github.io/udacity-fend-portfolio/)
 
 
 
