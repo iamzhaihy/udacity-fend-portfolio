@@ -27,7 +27,7 @@ hr {
     height: 120px%;
 }
 
-.title{
+.title {
     color: #2d3c49;
 }
 
@@ -39,15 +39,31 @@ hr {
 }
 
 @media screen and (max-width: 490px) {
-  h1 {font-size: 16pt;}
-  h2 {font-size: 14pt;}
-  h3 {font-size: 12pt;}
-  p {font-size: 10pt}
+    h1 {
+        font-size: 16pt;
+    }
+    h2 {
+        font-size: 14pt;
+    }
+    h3 {
+        font-size: 12pt;
+    }
+    p {
+        font-size: 10pt
+    }
 }
 
 @media screen and (min-width: 491px) and (max-width: 680px) {
-  h1 {font-size: 22pt;}
-  h2 {font-size: 16pt;}
-  h3 {font-size: 14pt;}
-  p {font-size: 12pt}
+    h1 {
+        font-size: 22pt;
+    }
+    h2 {
+        font-size: 16pt;
+    }
+    h3 {
+        font-size: 14pt;
+    }
+    p {
+        font-size: 12pt
+    }
 }
